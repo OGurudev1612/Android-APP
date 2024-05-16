@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- res/drawable/search_view_background.xml -->
+    <shape xmlns:android="http://schemas.android.com/apk/res/android">
+        <solid android:color="#FFFFFF"/> <!-- or any color you prefer -->
+        <corners android:radius="4dp"/> <!-- rounded corners -->
+        <!-- Optionally add border, padding, etc. -->
+    </shape>
+
+</selector>

@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <!-- Add your menu items here -->
+        <item
+            android:id="@+id/nav_item_1"
+            android:icon="@drawable/_2441grp"
+            android:title="Groups" />
+        <item
+            android:id="@+id/nav_item_2"
+            android:icon="@drawable/_76769_clipboard_512x512"
+            android:title="Tasks" />
+        <item
+            android:id="@+id/nav_item_3"
+            android:icon="@drawable/_171065pro"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_item_4"
+            android:icon="@drawable/_751366"
+            android:title="Sign Out" />
+
+    </group>
+
+</menu>

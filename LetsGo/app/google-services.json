@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "213796442243",
+    "project_id": "letsgo-3d8a1",
+    "storage_bucket": "letsgo-3d8a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213796442243:android:430758ec826856f3c8cbb6",
+        "android_client_info": {
+          "package_name": "com.example.letsgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7PCi0DbZYzUANSql_duoLwv4EJRAgtr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
